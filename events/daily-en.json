@@ -29,7 +29,7 @@
         },
         {
             "Id": -93147797030541300,
-            "Text": "Iridium Sprinkler from Krobus (1000po)",
+            "Text": "Iridium Sprinkler from Krobus (10,000g)",
             "IsBold": false,
             "IsDone": false,
             "IsHeader": false,
@@ -42,7 +42,7 @@
         },
         {
             "Id": -93152244955715575,
-            "Text": "Omni Geode from Krobus (1000po)",
+            "Text": "Omni Geode from Krobus (300g)",
             "IsBold": false,
             "IsDone": false,
             "IsHeader": false,
